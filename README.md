@@ -1,6 +1,8 @@
 # Covid19_analysis
-**COVID-19 Data Analysis Project using SQL**
-Description
+****COVID-19 Data Analysis Project using SQL************
+
+
+**DESCRIPTION**
 This project focuses on analyzing the impact and spread of COVID-19 using data from various sources. Utilizing PostgreSQL for data queries and Excel for data management and analysis, I aimed to draw meaningful insights and statistics from the data. The analysis covers several key aspects of the pandemic, providing a comprehensive overview of its effects globally and specifically in India.
 
 Key Analyses and Insights
